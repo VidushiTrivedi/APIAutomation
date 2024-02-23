@@ -1,0 +1,9 @@
+
+p
+java:S1104	"NMake id a static final constant or non-public and provide accessors if needed.(Â¥Šˆøÿÿÿÿ8ÇôáÊÅ1
+m
+java:S1104
+"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8—ãâÊÅ1
+z
+java:S1104"XMake tech_type_id a static final constant or non-public and provide accessors if needed.(Û±ãšøÿÿÿÿ8ŠŒãÊÅ1
+x	java:S116"WRename this field "tech_type_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û±ãšøÿÿÿÿ8ŒŒãÊÅ1
